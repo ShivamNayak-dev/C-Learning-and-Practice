@@ -9,3 +9,13 @@ double percentage = 85.5;
 Console.WriteLine(name);
 Console.WriteLine(age);
 Console.WriteLine(percentage);
+
+
+string name = "Shivam";
+int age = 22;
+
+Console.WriteLine("Name:");
+Console.WriteLine(name);
+
+Console.WriteLine("Age:");
+Console.WriteLine(age);
