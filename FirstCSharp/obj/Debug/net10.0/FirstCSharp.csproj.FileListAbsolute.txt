@@ -1,0 +1,14 @@
+C:\Users\HP\OneDrive\Desktop\C# tutorial\FirstCSharp\bin\Debug\net10.0\FirstCSharp.exe
+C:\Users\HP\OneDrive\Desktop\C# tutorial\FirstCSharp\bin\Debug\net10.0\FirstCSharp.deps.json
+C:\Users\HP\OneDrive\Desktop\C# tutorial\FirstCSharp\bin\Debug\net10.0\FirstCSharp.runtimeconfig.json
+C:\Users\HP\OneDrive\Desktop\C# tutorial\FirstCSharp\bin\Debug\net10.0\FirstCSharp.dll
+C:\Users\HP\OneDrive\Desktop\C# tutorial\FirstCSharp\bin\Debug\net10.0\FirstCSharp.pdb
+C:\Users\HP\OneDrive\Desktop\C# tutorial\FirstCSharp\obj\Debug\net10.0\FirstCSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\OneDrive\Desktop\C# tutorial\FirstCSharp\obj\Debug\net10.0\FirstCSharp.AssemblyInfoInputs.cache
+C:\Users\HP\OneDrive\Desktop\C# tutorial\FirstCSharp\obj\Debug\net10.0\FirstCSharp.AssemblyInfo.cs
+C:\Users\HP\OneDrive\Desktop\C# tutorial\FirstCSharp\obj\Debug\net10.0\FirstCSharp.csproj.CoreCompileInputs.cache
+C:\Users\HP\OneDrive\Desktop\C# tutorial\FirstCSharp\obj\Debug\net10.0\FirstCSharp.dll
+C:\Users\HP\OneDrive\Desktop\C# tutorial\FirstCSharp\obj\Debug\net10.0\refint\FirstCSharp.dll
+C:\Users\HP\OneDrive\Desktop\C# tutorial\FirstCSharp\obj\Debug\net10.0\FirstCSharp.pdb
+C:\Users\HP\OneDrive\Desktop\C# tutorial\FirstCSharp\obj\Debug\net10.0\FirstCSharp.genruntimeconfig.cache
+C:\Users\HP\OneDrive\Desktop\C# tutorial\FirstCSharp\obj\Debug\net10.0\ref\FirstCSharp.dll

@@ -1,0 +1,14 @@
+C:\Users\HP\OneDrive\Desktop\C# tutorial\Lesson6Demo\bin\Debug\net10.0\Lesson6Demo.exe
+C:\Users\HP\OneDrive\Desktop\C# tutorial\Lesson6Demo\bin\Debug\net10.0\Lesson6Demo.deps.json
+C:\Users\HP\OneDrive\Desktop\C# tutorial\Lesson6Demo\bin\Debug\net10.0\Lesson6Demo.runtimeconfig.json
+C:\Users\HP\OneDrive\Desktop\C# tutorial\Lesson6Demo\bin\Debug\net10.0\Lesson6Demo.dll
+C:\Users\HP\OneDrive\Desktop\C# tutorial\Lesson6Demo\bin\Debug\net10.0\Lesson6Demo.pdb
+C:\Users\HP\OneDrive\Desktop\C# tutorial\Lesson6Demo\obj\Debug\net10.0\Lesson6Demo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\OneDrive\Desktop\C# tutorial\Lesson6Demo\obj\Debug\net10.0\Lesson6Demo.AssemblyInfoInputs.cache
+C:\Users\HP\OneDrive\Desktop\C# tutorial\Lesson6Demo\obj\Debug\net10.0\Lesson6Demo.AssemblyInfo.cs
+C:\Users\HP\OneDrive\Desktop\C# tutorial\Lesson6Demo\obj\Debug\net10.0\Lesson6Demo.csproj.CoreCompileInputs.cache
+C:\Users\HP\OneDrive\Desktop\C# tutorial\Lesson6Demo\obj\Debug\net10.0\Lesson6Demo.dll
+C:\Users\HP\OneDrive\Desktop\C# tutorial\Lesson6Demo\obj\Debug\net10.0\refint\Lesson6Demo.dll
+C:\Users\HP\OneDrive\Desktop\C# tutorial\Lesson6Demo\obj\Debug\net10.0\Lesson6Demo.pdb
+C:\Users\HP\OneDrive\Desktop\C# tutorial\Lesson6Demo\obj\Debug\net10.0\Lesson6Demo.genruntimeconfig.cache
+C:\Users\HP\OneDrive\Desktop\C# tutorial\Lesson6Demo\obj\Debug\net10.0\ref\Lesson6Demo.dll
