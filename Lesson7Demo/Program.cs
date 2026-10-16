@@ -79,6 +79,8 @@ Console.WriteLine("Expo = " + Math.Pow(10, 20));
 
 //Numbet is odd or even...
 
+
+/*
 int number = 17;
 
 if(number % 2 == 0){
@@ -89,5 +91,13 @@ else{
     Console.WriteLine("Odd NUmber");
 }
 
+*/
+
+decimal price = 199.99m;
+decimal quantity = 3;
+
+decimal total = price * quantity;
+
+Console.WriteLine(total);
 
 
