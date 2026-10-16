@@ -12,3 +12,4 @@ C:\Users\HP\OneDrive\Desktop\C# tutorial\Lesson7Demo\obj\Debug\net10.0\refint\Le
 C:\Users\HP\OneDrive\Desktop\C# tutorial\Lesson7Demo\obj\Debug\net10.0\Lesson7Demo.pdb
 C:\Users\HP\OneDrive\Desktop\C# tutorial\Lesson7Demo\obj\Debug\net10.0\Lesson7Demo.genruntimeconfig.cache
 C:\Users\HP\OneDrive\Desktop\C# tutorial\Lesson7Demo\obj\Debug\net10.0\ref\Lesson7Demo.dll
+C:\Users\HP\OneDrive\Desktop\C# tutorial\Lesson7Demo\obj\Debug\net10.0\Lesson7Demo.sourcelink.json

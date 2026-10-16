@@ -77,6 +77,17 @@ Console.WriteLine("Expo = " + Math.Pow(10, 20));
 */
 
 
-odd or even...
+//Numbet is odd or even...
+
+int number = 17;
+
+if(number % 2 == 0){
+    Console.WriteLine("Even Number");
+}
+
+else{
+    Console.WriteLine("Odd NUmber");
+}
+
 
 
