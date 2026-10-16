@@ -19,3 +19,7 @@ Console.WriteLine(name);
 
 Console.WriteLine("Age:");
 Console.WriteLine(age);
+
+Console.Write("Hello ");
+Console.Write("World!");
+Console.Write(" Welcome to C#.");
