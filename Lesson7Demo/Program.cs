@@ -93,11 +93,19 @@ else{
 
 */
 
-decimal price = 199.99m;
+/*decimal price = 199.99m;
 decimal quantity = 3;
 
 decimal total = price * quantity;
 
 Console.WriteLine(total);
 
+*/
 
+//int result = 10 + 5 * 2;
+
+//Console.WriteLine(result);
+
+int result = (10 + 5) * 2;
+
+Console.WriteLine(result);
