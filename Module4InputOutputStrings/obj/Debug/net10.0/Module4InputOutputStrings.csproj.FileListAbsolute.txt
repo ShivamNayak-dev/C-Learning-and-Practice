@@ -1,0 +1,15 @@
+C:\Users\HP\OneDrive\Desktop\C# tutorial\Module4InputOutputStrings\bin\Debug\net10.0\Module4InputOutputStrings.exe
+C:\Users\HP\OneDrive\Desktop\C# tutorial\Module4InputOutputStrings\bin\Debug\net10.0\Module4InputOutputStrings.deps.json
+C:\Users\HP\OneDrive\Desktop\C# tutorial\Module4InputOutputStrings\bin\Debug\net10.0\Module4InputOutputStrings.runtimeconfig.json
+C:\Users\HP\OneDrive\Desktop\C# tutorial\Module4InputOutputStrings\bin\Debug\net10.0\Module4InputOutputStrings.dll
+C:\Users\HP\OneDrive\Desktop\C# tutorial\Module4InputOutputStrings\bin\Debug\net10.0\Module4InputOutputStrings.pdb
+C:\Users\HP\OneDrive\Desktop\C# tutorial\Module4InputOutputStrings\obj\Debug\net10.0\Module4InputOutputStrings.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\OneDrive\Desktop\C# tutorial\Module4InputOutputStrings\obj\Debug\net10.0\Module4InputOutputStrings.AssemblyInfoInputs.cache
+C:\Users\HP\OneDrive\Desktop\C# tutorial\Module4InputOutputStrings\obj\Debug\net10.0\Module4InputOutputStrings.AssemblyInfo.cs
+C:\Users\HP\OneDrive\Desktop\C# tutorial\Module4InputOutputStrings\obj\Debug\net10.0\Module4InputOutputStrings.csproj.CoreCompileInputs.cache
+C:\Users\HP\OneDrive\Desktop\C# tutorial\Module4InputOutputStrings\obj\Debug\net10.0\Module4InputOutputStrings.sourcelink.json
+C:\Users\HP\OneDrive\Desktop\C# tutorial\Module4InputOutputStrings\obj\Debug\net10.0\Module4InputOutputStrings.dll
+C:\Users\HP\OneDrive\Desktop\C# tutorial\Module4InputOutputStrings\obj\Debug\net10.0\refint\Module4InputOutputStrings.dll
+C:\Users\HP\OneDrive\Desktop\C# tutorial\Module4InputOutputStrings\obj\Debug\net10.0\Module4InputOutputStrings.pdb
+C:\Users\HP\OneDrive\Desktop\C# tutorial\Module4InputOutputStrings\obj\Debug\net10.0\Module4InputOutputStrings.genruntimeconfig.cache
+C:\Users\HP\OneDrive\Desktop\C# tutorial\Module4InputOutputStrings\obj\Debug\net10.0\ref\Module4InputOutputStrings.dll
