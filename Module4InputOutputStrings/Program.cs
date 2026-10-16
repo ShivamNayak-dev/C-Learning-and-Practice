@@ -23,3 +23,6 @@ Console.WriteLine(age);
 Console.Write("Hello ");
 Console.Write("World!");
 Console.Write(" Welcome to C#.");
+
+Console.Write("Entry your Name = ");
+Console.WriteLine("Shivam Nayak");
