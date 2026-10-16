@@ -1,0 +1,15 @@
+C:\Users\HP\OneDrive\Desktop\C# tutorial\Lesson2Comparison\bin\Debug\net10.0\Lesson2Comparison.exe
+C:\Users\HP\OneDrive\Desktop\C# tutorial\Lesson2Comparison\bin\Debug\net10.0\Lesson2Comparison.deps.json
+C:\Users\HP\OneDrive\Desktop\C# tutorial\Lesson2Comparison\bin\Debug\net10.0\Lesson2Comparison.runtimeconfig.json
+C:\Users\HP\OneDrive\Desktop\C# tutorial\Lesson2Comparison\bin\Debug\net10.0\Lesson2Comparison.dll
+C:\Users\HP\OneDrive\Desktop\C# tutorial\Lesson2Comparison\bin\Debug\net10.0\Lesson2Comparison.pdb
+C:\Users\HP\OneDrive\Desktop\C# tutorial\Lesson2Comparison\obj\Debug\net10.0\Lesson2Comparison.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\OneDrive\Desktop\C# tutorial\Lesson2Comparison\obj\Debug\net10.0\Lesson2Comparison.AssemblyInfoInputs.cache
+C:\Users\HP\OneDrive\Desktop\C# tutorial\Lesson2Comparison\obj\Debug\net10.0\Lesson2Comparison.AssemblyInfo.cs
+C:\Users\HP\OneDrive\Desktop\C# tutorial\Lesson2Comparison\obj\Debug\net10.0\Lesson2Comparison.csproj.CoreCompileInputs.cache
+C:\Users\HP\OneDrive\Desktop\C# tutorial\Lesson2Comparison\obj\Debug\net10.0\Lesson2Comparison.sourcelink.json
+C:\Users\HP\OneDrive\Desktop\C# tutorial\Lesson2Comparison\obj\Debug\net10.0\Lesson2Comparison.dll
+C:\Users\HP\OneDrive\Desktop\C# tutorial\Lesson2Comparison\obj\Debug\net10.0\refint\Lesson2Comparison.dll
+C:\Users\HP\OneDrive\Desktop\C# tutorial\Lesson2Comparison\obj\Debug\net10.0\Lesson2Comparison.pdb
+C:\Users\HP\OneDrive\Desktop\C# tutorial\Lesson2Comparison\obj\Debug\net10.0\Lesson2Comparison.genruntimeconfig.cache
+C:\Users\HP\OneDrive\Desktop\C# tutorial\Lesson2Comparison\obj\Debug\net10.0\ref\Lesson2Comparison.dll
