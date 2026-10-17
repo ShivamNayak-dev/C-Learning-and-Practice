@@ -1,4 +1,4 @@
-﻿Console.WriteLine("Hello, World!");
+﻿/*Console.WriteLine("Hello, World!");
 
 
 
@@ -106,3 +106,53 @@ double average = (double)sum / marks.Length;
 
 Console.WriteLine($"Total: {sum}");
 Console.WriteLine($"Average: {average:F2}");
+
+*/
+
+int[] marks = {10, 20, 30, 40 ,50};
+
+Console.Write(marks[0]);
+Console.Write(marks[1]);
+Console.Write(marks[2]);
+
+dataType[] arrayName;
+
+int[] numbers = new int[6];
+
+int[] numbers = { 1, 2, 3, 4, 5, 6 };
+
+int evenCount = 0;
+int oddCount = 0;
+
+foreach (int number in numbers)
+{
+    if (number % 2 == 0)
+    {
+        evenCount++;
+    }
+    else
+    {
+        oddCount++;
+    }
+}
+
+Console.WriteLine($"Even: {evenCount}");
+Console.WriteLine($"Odd: {oddCount}");
+
+
+int[] numbers = { 1, 2, 3, 4, 5 };
+
+int left = 0;
+int right = numbers.Length - 1;
+
+while (left < right)
+{
+    int temp = numbers[left];
+    numbers[left] = numbers[right];
+    numbers[right] = temp;
+
+    left++;
+    right--;
+}
+
+Console.WriteLine(string.Join(", ", numbers));
