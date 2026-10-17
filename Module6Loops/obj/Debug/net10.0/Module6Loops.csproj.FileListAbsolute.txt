@@ -1,0 +1,15 @@
+C:\Users\HP\OneDrive\Desktop\C# tutorial\Module6Loops\bin\Debug\net10.0\Module6Loops.exe
+C:\Users\HP\OneDrive\Desktop\C# tutorial\Module6Loops\bin\Debug\net10.0\Module6Loops.deps.json
+C:\Users\HP\OneDrive\Desktop\C# tutorial\Module6Loops\bin\Debug\net10.0\Module6Loops.runtimeconfig.json
+C:\Users\HP\OneDrive\Desktop\C# tutorial\Module6Loops\bin\Debug\net10.0\Module6Loops.dll
+C:\Users\HP\OneDrive\Desktop\C# tutorial\Module6Loops\bin\Debug\net10.0\Module6Loops.pdb
+C:\Users\HP\OneDrive\Desktop\C# tutorial\Module6Loops\obj\Debug\net10.0\Module6Loops.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\OneDrive\Desktop\C# tutorial\Module6Loops\obj\Debug\net10.0\Module6Loops.AssemblyInfoInputs.cache
+C:\Users\HP\OneDrive\Desktop\C# tutorial\Module6Loops\obj\Debug\net10.0\Module6Loops.AssemblyInfo.cs
+C:\Users\HP\OneDrive\Desktop\C# tutorial\Module6Loops\obj\Debug\net10.0\Module6Loops.csproj.CoreCompileInputs.cache
+C:\Users\HP\OneDrive\Desktop\C# tutorial\Module6Loops\obj\Debug\net10.0\Module6Loops.sourcelink.json
+C:\Users\HP\OneDrive\Desktop\C# tutorial\Module6Loops\obj\Debug\net10.0\Module6Loops.dll
+C:\Users\HP\OneDrive\Desktop\C# tutorial\Module6Loops\obj\Debug\net10.0\refint\Module6Loops.dll
+C:\Users\HP\OneDrive\Desktop\C# tutorial\Module6Loops\obj\Debug\net10.0\Module6Loops.pdb
+C:\Users\HP\OneDrive\Desktop\C# tutorial\Module6Loops\obj\Debug\net10.0\Module6Loops.genruntimeconfig.cache
+C:\Users\HP\OneDrive\Desktop\C# tutorial\Module6Loops\obj\Debug\net10.0\ref\Module6Loops.dll
