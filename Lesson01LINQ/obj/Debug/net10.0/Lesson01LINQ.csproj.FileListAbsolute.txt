@@ -1,0 +1,15 @@
+C:\Users\HP\OneDrive\Desktop\C# tutorial\Lesson01LINQ\bin\Debug\net10.0\Lesson01LINQ.exe
+C:\Users\HP\OneDrive\Desktop\C# tutorial\Lesson01LINQ\bin\Debug\net10.0\Lesson01LINQ.deps.json
+C:\Users\HP\OneDrive\Desktop\C# tutorial\Lesson01LINQ\bin\Debug\net10.0\Lesson01LINQ.runtimeconfig.json
+C:\Users\HP\OneDrive\Desktop\C# tutorial\Lesson01LINQ\bin\Debug\net10.0\Lesson01LINQ.dll
+C:\Users\HP\OneDrive\Desktop\C# tutorial\Lesson01LINQ\bin\Debug\net10.0\Lesson01LINQ.pdb
+C:\Users\HP\OneDrive\Desktop\C# tutorial\Lesson01LINQ\obj\Debug\net10.0\Lesson01LINQ.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\OneDrive\Desktop\C# tutorial\Lesson01LINQ\obj\Debug\net10.0\Lesson01LINQ.AssemblyInfoInputs.cache
+C:\Users\HP\OneDrive\Desktop\C# tutorial\Lesson01LINQ\obj\Debug\net10.0\Lesson01LINQ.AssemblyInfo.cs
+C:\Users\HP\OneDrive\Desktop\C# tutorial\Lesson01LINQ\obj\Debug\net10.0\Lesson01LINQ.csproj.CoreCompileInputs.cache
+C:\Users\HP\OneDrive\Desktop\C# tutorial\Lesson01LINQ\obj\Debug\net10.0\Lesson01LINQ.sourcelink.json
+C:\Users\HP\OneDrive\Desktop\C# tutorial\Lesson01LINQ\obj\Debug\net10.0\Lesson01LINQ.dll
+C:\Users\HP\OneDrive\Desktop\C# tutorial\Lesson01LINQ\obj\Debug\net10.0\refint\Lesson01LINQ.dll
+C:\Users\HP\OneDrive\Desktop\C# tutorial\Lesson01LINQ\obj\Debug\net10.0\Lesson01LINQ.pdb
+C:\Users\HP\OneDrive\Desktop\C# tutorial\Lesson01LINQ\obj\Debug\net10.0\Lesson01LINQ.genruntimeconfig.cache
+C:\Users\HP\OneDrive\Desktop\C# tutorial\Lesson01LINQ\obj\Debug\net10.0\ref\Lesson01LINQ.dll
