@@ -106,6 +106,13 @@ Console.WriteLine(total);
 
 //Console.WriteLine(result);
 
-int result = (10 + 5) * 2;
+//int result = (10 + 5) * 2;
+
+//Console.WriteLine(result);
+
+//int a = 10;
+//int b = 0;
+
+double result = 10.0 / 0.0;
 
 Console.WriteLine(result);

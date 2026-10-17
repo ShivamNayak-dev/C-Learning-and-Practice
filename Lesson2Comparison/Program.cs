@@ -92,3 +92,13 @@ Console.WriteLine(++count);
 
 Console.WriteLine($"Remainder: {marks % 7}");
 
+object value = "CSharp";
+
+Console.WriteLine(value is string);
+
+string? text = value as string;
+Console.WriteLine(text ?? "No text");
+
+Console.WriteLine(typeof(string).Name);
+Console.WriteLine(nameof(value));
+Console.WriteLine(sizeof(int));
