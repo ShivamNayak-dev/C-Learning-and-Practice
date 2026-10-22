@@ -23,7 +23,7 @@ public class Dog : Animal{
     }
 }
 
-*/
+
 
 Student s1 = new Student();
 Student s2 = new Student();
@@ -47,6 +47,49 @@ public class Student{
     }
 
 
+}
+
+
+
+Student s = new Student();
+
+s.name="Shivam";
+
+Console.WriteLine(s.name);
+
+
+public class Student{
+    public string name{get; set; } ="";
+
+}
+
+*/
+
+// Getter and Setter
+
+Student s = new Student();
+
+s.Age = 22;
+Console.WriteLine(s.Age);
+
+s.Age = 50;
+Console.WriteLine(s.Age);
+
+public class Student{
+
+    private int age;
+    
+    public int Age{
+        get{
+            return age;
+        }
+
+        set{
+            if(value > 0){
+                age=value;
+            }
+        }
+    }
 }
 
 
