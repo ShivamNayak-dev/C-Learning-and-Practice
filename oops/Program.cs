@@ -25,9 +25,17 @@ public class Dog : Animal{
 
 */
 
-Student st = new Student();
-//st.name = "Shivam Nayak";
-st.Introduce();
+Student s1 = new Student();
+Student s2 = new Student();
+Student s3 = new Student();
+
+s1.name = "Shivam";
+s2.name = "Aman";
+s3.name = "gopla";
+
+s1.Introduce();
+s2.Introduce();
+s3.Introduce();
 
 
 public class Student{
