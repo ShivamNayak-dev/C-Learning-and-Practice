@@ -1,4 +1,4 @@
-﻿Console.WriteLine("Hello, World!");
+﻿/*Console.WriteLine("Hello, World!");
 
 Dog dog = new Dog();
 dog.Name="Tommy";
@@ -22,4 +22,23 @@ public class Dog : Animal{
         Console.WriteLine($"{Name} is Barking");
     }
 }
+
+*/
+
+Student st = new Student();
+//st.name = "Shivam Nayak";
+st.Introduce();
+
+
+public class Student{
+
+    public string name = "Amit Kumar";
+
+    public void Introduce(){
+        Console.WriteLine($"My name if {name}");
+    }
+
+
+}
+
 
